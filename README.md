@@ -1,2 +1,2 @@
 # learn-glium
-My OpenGL &amp; Rust learning snippets
+My OpenGL &amp; Rust (https://github.com/glium/glium) learning snippets
